@@ -1,5 +1,4 @@
 # apnacollge-demo
-this is my first Git repository
-my name is shubham
-tommy is a dog
-my name is shubham saini
+<br> my name is shubham saini</br>
+my pet name is shubham
+
